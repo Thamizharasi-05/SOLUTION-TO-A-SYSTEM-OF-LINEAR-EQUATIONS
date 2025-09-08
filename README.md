@@ -26,7 +26,6 @@ print(C)
 ```
 ## Output:
 
-<img width="1899" height="1091" alt="image" src="https://github.com/user-attachments/assets/90231dcb-6e73-4137-a78a-568db5dc289a" />
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
